@@ -1,0 +1,7 @@
+{
+  "name": "スマート家計簿",
+  "description": "AIレシートOCR、複数ユーザー追跡、支出分析機能を備えた高機能なデジタル家計簿アプリ。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
